@@ -14,7 +14,7 @@ It applies **data preprocessing, class balancing (SMOTE), and machine learning m
 ---
 
 ## Results
-# Random Forest Results:
+### Random Forest Results:
               precision    recall  f1-score   support
 
            0       0.90      0.94      0.92       722
@@ -25,7 +25,7 @@ weighted avg       0.89      0.89      0.89      1000
 
 ROC-AUC: 0.8428027660973714
 
-# XGBoost Results:
+### XGBoost Results:
               precision    recall  f1-score   support
 
            0       0.90      0.92      0.91       722
